@@ -2,7 +2,9 @@
 
 ## CL Programming
 ### Introduction to CL Programming
-#### Overview of CL as a scripting language for IBM i (formerly AS/400) systems. 
+CL (Control Language) programming is a scripting language used primarily on the IBM AS400 (now known as IBM i) platform. CL programs consist of a series of commands and parameters that are executed sequentially to perform specific actions, such as invoking programs, manipulating files, and managing job queues. CL programming is essential for system administrators and developers working on AS400 systems, providing them with a powerful toolset to streamline operations and enhance system efficiency.
+#### Overview of CL as a scripting language for IBM i (formerly AS/400) systems
+Originally developed alongside the AS/400 system in the late 1980s, CL was designed to provide users with a powerful yet straightforward language for system management and automation. Over the years, CL has evolved alongside the IBM i platform, incorporating new features and enhancements to keep pace with changing technological demands.
 #### Basic syntax and structure of CL programs
 #### Understanding commands, parameters, and variables in CL
 ### Control Sructure in CL 
